@@ -1,0 +1,20 @@
+{
+  "name": "unisat-connector-javascript",
+  "version": "1.0.0",
+  "description": "This is a lightweight library that works as a connector to UniSat API",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Larkhell",
+  "license": "BSD-3-Clause",
+  "dependencies": {
+    "axios": "^1.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
